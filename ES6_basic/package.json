@@ -1,0 +1,19 @@
+{
+  "name": "es6_basic",
+  "version": "1.0.0",
+  "description": "Holberton School ES6 Basic Project",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "jest --runInBand",
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "babel-jest": "^30.2.0",
+    "eslint": "^8.57.0",
+    "jest": "^30.2.0"
+  }
+}
